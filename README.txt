@@ -3,7 +3,7 @@ Contributors: devonostendorf
 Donate link: https://devonostendorf.com
 Tags: post, notif, notification, email, subscribe
 Requires at least: 4.1.1
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -62,14 +62,14 @@ Simply tailor the subscription widget labels, the email subjects and bodies, and
 = Download and Install =    
 1. Go to "Plugins > Add New" in your Dashboard and search for: Post Notif
 2. Click the "Install Now" button for the Post Notif plugin
-3. See the appropriate section below ("Single Site - Activate and Configure" or "Multisite - Activate and Configure" BEFORE activating)
+3. See the appropriate section below ("Single Site - Activate and Configure" or "Multisite - Activate and Configure") **BEFORE** activating
 
 **OR**  
 
 1. Download `post-notif.[version_number].zip` from the WordPress.org plugin directory
 2. Extract `post-notif.[version_number].zip` into a directory on your computer  
 3. Upload the `post-notif` directory to your plugins directory (typically `../wp-content/plugins`)  
-4. See the appropriate section below ("Single Site - Activate and Configure" or "Multisite - Activate and Configure" BEFORE activating)
+4. See the appropriate section below ("Single Site - Activate and Configure" or "Multisite - Activate and Configure") **BEFORE** activating
 
 = Single Site - Activate and Configure =  
 1. Activate the plugin in the Plugins admin menu (Plugins >> Installed Plugins)  
