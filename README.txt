@@ -67,6 +67,9 @@ Simply tailor the subscription widget labels, the email subjects and bodies, and
 
 == Installation ==
 
+**If upgrading to v1.0.2 from a previous version of the plugin**
+Be sure you deactivate the plugin and then re-activate it IMMEDIATELY after installing the update!
+
 = Download and Install =    
 1. Go to "Plugins > Add New" in your Dashboard and search for: Post Notif
 2. Click the "Install Now" button for the Post Notif plugin
