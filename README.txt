@@ -67,7 +67,7 @@ Simply tailor the subscription widget labels, the email subjects and bodies, and
 
 == Installation ==
 
-**If upgrading to v1.0.2 from a previous version of the plugin**
+**If upgrading to v1.0.2 from a previous version of the plugin**  
 Be sure you deactivate the plugin and then re-activate it IMMEDIATELY after installing the update!
 
 = Download and Install =    
