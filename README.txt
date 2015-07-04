@@ -1,5 +1,5 @@
 === Post Notif ===
-Contributors: devonostendorf
+Contributors: DevonOstendorf
 Donate link: https://devonostendorf.com
 Tags: post, notif, notification, email, subscribe
 Requires at least: 4.1.1
